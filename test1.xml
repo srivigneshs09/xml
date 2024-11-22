@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<People xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="schema.xsd">
+  <Person>
+    <FirstName>John</FirstName>
+    <LastName>Doe</LastName>
+    <Age>30</Age>
+    <Address>
+      <Street>123 Elm Street</Street>
+      <City>Gotham</City>
+      <State>NY</State>
+      <ZipCode>12345</ZipCode>
+    </Address>
+    <PhoneNumbers>
+      <PhoneNumber>123-456-7890</PhoneNumber>
+      <PhoneNumber>987-654-3210</PhoneNumber>
+    </PhoneNumbers>
+  </Person>
+  <Person>
+    <FirstName>Jane</FirstName>
+    <LastName>Smith</LastName>
+    <Age>28</Age>
+    <Address>
+      <Street>456 Oak Avenue</Street>
+      <City>Metropolis</City>
+      <State>CA</State>
+      <ZipCode>67890</ZipCode>
+    </Address>
+    <PhoneNumbers>
+      <PhoneNumber>555-123-4567</PhoneNumber>
+    </PhoneNumbers>
+  </Person>
+</People>
