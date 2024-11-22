@@ -5,6 +5,7 @@
   <xs:simpleType name="PositiveInteger">
     <xs:restriction base="xs:int">
       <xs:minInclusive value="1"/>
+      <xs:pattern value="[A-Z]"></xs:pattern>
     </xs:restriction>
   </xs:simpleType>
 
