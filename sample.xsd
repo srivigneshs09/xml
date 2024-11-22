@@ -6,6 +6,9 @@
     <xs:restriction base="xs:int">
       <xs:minInclusive value="1"/>
       <xs:pattern value="[A-Z]"></xs:pattern>
+      <xs:enumeration value="Audi"></xs:enumeration>
+      <xs:enumeration value="BMW"></xs:enumeration>
+      <xs:enumeration value="Lambo"></xs:enumeration>
     </xs:restriction>
   </xs:simpleType>
 
